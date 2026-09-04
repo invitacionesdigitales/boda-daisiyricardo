@@ -189,9 +189,9 @@ margin-top: -17%;
  
 }
 .calendario{
-  width: 80%;
-  margin-left: 9%;
-  margin-top: 60%;
+  width: 90%;
+  margin-left: 5%;
+  margin-top: 10%;
 }
 .fotouno{
   width: 90%;
@@ -213,11 +213,11 @@ margin-top: -17%;
 }
 .parrafo4{
   text-align: center;
- font-family: "Playfair Display", serif;
-   font-size: 40px;
-   color: #ffffff;
+ font-family: "MonteCarlo", cursive;
+   font-size: 43px;
+   color: #c9b245;
    font-weight: 500;
-   margin-top: -44%;
+   margin-top: 12%;
   
    
 }
@@ -333,7 +333,7 @@ margin-top: -17%;
   width: 18%;
      display: block;
     margin: auto;
-    margin-top: 5%;
+    margin-top: -5%;
 }
 
 .bola{
@@ -395,11 +395,11 @@ margin-top: -17%;
   overflow: hidden;
   border-radius: 5px;
   border: none;
-  background-color:#ba9454;
-  margin-top: 5%;
+  background-color:#856180;
+  margin-top: 3%;
   text-decoration: none;
   font-family: 'Julius Sans One', sans-serif;
-  background-size: 220%;
+  background-size: 100%;
   background-image: url(./imagenes/brillo.gif);
 }
 .primary2 {
@@ -509,9 +509,10 @@ margin-top: -17%;
   text-align: center;
 }
 .parrafo5{
-   font-family: "Poppins", sans-serif;
-  font-size: 25px;
-  color: #414141;
+  font-family: "Cinzel", serif;
+  font-size: 20px;
+  font-weight: 500;
+  color: #232323;
   margin-top: -4%;
   text-align: center;
  

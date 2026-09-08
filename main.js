@@ -73,7 +73,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!4v1778935429563!6m8!1m7!1sjGE5thmhTUgxrET0_2Ru7A!2m2!1d-33.1540884760236!2d-62.86196557590743!3f294.8475504045752!4f-2.854366487984109!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>',
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2928.9560225164914!2d-65.03918232406429!3d-42.768135333092545!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbe024a9dbc8f1bdf%3A0x8afb08e247380991!2sParroquia%20Sagrado%20Coraz%C3%B3n%20de%20Jes%C3%BAs%2C%20Madryn!5e0!3m2!1ses!2sar!4v1788562532148!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>',
         
         
     })

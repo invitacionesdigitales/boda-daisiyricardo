@@ -223,6 +223,16 @@ margin-top: -17%;
 }
 
 }
+.parraforegalo{
+  text-align: center;
+ font-family: "MonteCarlo", cursive;
+   font-size: 43px;
+   color: #c9b245;
+   font-weight: 500;
+   margin-top: 12%;
+  
+   
+}
 .fiesta{
   text-align: center;
  font-family: "Playfair Display", serif;
@@ -314,7 +324,7 @@ margin-top: -17%;
     margin: auto;
   margin-top: 5%;
 }
-.viaje {
+.regalo {
   width: 18%;
   margin-left: 41%;
   margin-top: 5%;
@@ -378,7 +388,27 @@ margin-top: -17%;
   
    
 }
-
+.primary {
+  min-width: 130px;
+  height: 40px;
+  font-size: 20px;
+  color: #fff;
+  padding: 7px 10px ;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease;
+ margin-left: 36%;
+  outline: none;
+  overflow: hidden;
+  border-radius: 5px;
+  border: none;
+  background-color:#856180;
+  margin-top: 3%;
+  text-decoration: none;
+  font-family: 'Julius Sans One', sans-serif;
+  background-size: 100%;
+  background-image: url(./imagenes/brillo.gif);
+}
 
 .primary1 {
   min-width: 130px;
@@ -534,13 +564,7 @@ font-family: "Cinzel", serif;
   text-align: center;
   
 }
-.parraforegalo{
-  font-family: "Poppins", sans-serif;
-  font-size: 25px;
-  color: #414141;
-  margin-top: -2%;
-  text-align: center;
-}
+
 .parrafotrivia{
   font-family: "Poppins", sans-serif;
   font-size: 25px;
@@ -652,11 +676,11 @@ font-family: "Cinzel", serif;
 
 .final{
  text-align: center;
-  font-family: "Allura", cursive;
+  font-family: "MonteCarlo", cursive;
    font-size: 30px;
    color: #242424;
    font-weight: 500; 
-   margin-top: 8%;
+   margin-top: 40%;
 }
 
 .faltan{

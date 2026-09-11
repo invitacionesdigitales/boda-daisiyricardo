@@ -86,7 +86,7 @@ function diaEventoAhora () {
         icon: 'success',
         html:
           'INGRESÁ' +
-          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3146.02361420434!2d-57.7721125!3d-37.9532346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95852f05a374a15f%3A0x61475146b9311c2e!2sParroquia%20Nuestra%20Se%C3%B1ora%20del%20Pilar!5e0!3m2!1ses!2sar!4v1758125223088!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2929.611942212581!2d-65.0644242240651!3d-42.75426183221177!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xbe023586276a6353%3A0x511a0c30f3128fef!2ssalon%20encuentro%20del%20sec!5e0!3m2!1ses!2sar!4v1789163900030!5m2!1ses!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>' +
           'Podes ampliar el mapa',
           
           
